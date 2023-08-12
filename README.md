@@ -27,11 +27,12 @@ object programacionConObjetos {
 
 ### Presentacion Personal
 
-Me llamo ...
+Me llamo Ariel Delgadillo, tengo 19 años y estoy estudiando la tecnicatura en Programación.
 
-Me gusta ...
+Me gusta lo que es el mundo de la programación y me gustaria aprender más. Tambien me gusta el futbol y el club del que soy hincha, Independiente.
 
-Me dedico a / Trabajo de ...
+Me dedico a / Trabajo en un Kiosco con horarios rotatorios.
+
 
 Les dejo una imagen mía 
 
